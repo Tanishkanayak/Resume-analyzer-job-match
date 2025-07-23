@@ -1,5 +1,0 @@
-flask
-python-docx
-pdfminer.six
-nltk
-scikit-learn
